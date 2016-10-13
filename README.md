@@ -18,6 +18,6 @@ Parallel Computing via MPI. Sum the matrix.
 ## How to use
 
 1. If you are running on regular computer
-  * Compile 
+  * Compile MPI_SUM.cpp 
 
 
